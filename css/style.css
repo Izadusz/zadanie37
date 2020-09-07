@@ -1,0 +1,13 @@
+body {
+    background: rgb(133, 209, 133);
+    font-family: Calibri;
+}
+h1 {
+    color: greenyellow;
+}
+button#Add {
+    background: red;
+}
+button#Remove {
+    background: blue;
+}
